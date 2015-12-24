@@ -1,0 +1,28 @@
+{
+  "name": "react-checkbox-list",
+  "homepage": "https://github.com/sonyan/react-checkbox-list",
+  "authors": [
+    "Sony An <sony.an@outlook.com>"
+  ],
+  "description": "A bootstrap-style react component for checkbox list",
+  "main": "CheckBoxList.js",
+  "keywords": [
+    "checkbox",
+    "CheckboxList",
+    "CheckboxGroup",
+    "react",
+    "component",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "_release": "0778528041",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "07785280411082501344c3f19b7e5c9cf828ebad"
+  },
+  "_source": "git://github.com/sonyan/react-checkbox-list.git",
+  "_target": "*",
+  "_originalSource": "react-checkbox-list",
+  "_direct": true
+}
